@@ -295,7 +295,7 @@ $$
 
 When `Q` is `1`, `NOT_Q` is `0`. When `Q` is `0`, `NOT_Q` is `1`.
 
-<img width="698" height="720" alt="chrome_8Xo2sQ2pon" src="https://github.com/user-attachments/assets/88a5362e-2e39-4b90-8837-4fa93aa01b55" />
+<img width="349" height="360" alt="chrome_8Xo2sQ2pon" src="https://github.com/user-attachments/assets/88a5362e-2e39-4b90-8837-4fa93aa01b55" />
 
 
 <!-- IMAGE: Figure 7 — D flip-flop symbol and equivalent NAND-gate representation -->

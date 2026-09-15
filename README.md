@@ -323,8 +323,6 @@ Use:
 - A probe for output `Q`
 - A probe for output `NOT_Q`
 
-> **Image Placeholder:** Insert the 74LS74N test circuit here.
-
 <img width="637" height="391" alt="chrome_nQE2kWcIN8" src="https://github.com/user-attachments/assets/f3e6a5ff-6339-4c8f-a22b-0c4c0ac34b08" />
 
 

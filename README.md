@@ -82,14 +82,14 @@ Toggle the input switch and observe output `Z`.
 
 | X | Z |
 |---:|---:|
-| 0 | ___ |
-| 1 | ___ |
+| 0 | _1_ |
+| 1 | _0_ |
 
 ### Reflection
 
 **From your truth table, why do you think this gate is called an inverter?**
 
-> _Write your answer here._
+> I think the gate is called an inverter because the numbers change the opposite than their previous numbers, like if the X = 1 and Z=0 it would be X=0 Z=1 so they change from the others previous numbers._
 
 ---
 

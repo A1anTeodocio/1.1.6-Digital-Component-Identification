@@ -145,8 +145,8 @@ Toggle the input switches and observe output `Z` for every input combination.
 | X | Y | Z |
 |---:|---:|---:|
 | 0 | 0 | 1__ |
-| 0 | 1 | _0__ |
-| 1 | 0 | 0 |
+| 0 | 1 | _1__ |
+| 1 | 0 | 1 |
 | 1 | 1 | _0_ |
 
 ### Reflection

@@ -1,4 +1,4 @@
-# 1.1.6 Digital Component Identification
+.# 1.1.6 Digital Component Identification
 
 ## Overview
 
@@ -112,16 +112,16 @@ Toggle the input switches and observe output `Z` for every input combination.
 
 | X | Y | Z |
 |---:|---:|---:|
-| 0 | 0 | ___ |
-| 0 | 1 | ___ |
-| 1 | 0 | ___ |
-| 1 | 1 | ___ |
+| 0 | 0 | _0_ |
+| 0 | 1 | _0_ |
+| 1 | 0 | _0__ |
+| 1 | 1 | _1__ |
 
 ### Reflection
 
 **From your truth table, why do you think this gate is called an AND gate?**
 
-> _Write your answer here._
+> _I think its called an AND GATE since both x and y need to be 1 in order for Z to be 1 or 1=ON._
 
 ---
 

@@ -153,7 +153,7 @@ Toggle the input switches and observe output `Z` for every input combination.
 
 **From your truth table, why do you think this gate is called a NAND gate?**
 
-> _Write your answer here._
+> _I think its called an Nand gates for its functions being like 1 is on and the other 1 is on so it would be off or 0._
 
 ---
 

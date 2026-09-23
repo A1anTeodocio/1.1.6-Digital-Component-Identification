@@ -210,16 +210,16 @@ Toggle the input switches and observe output `Z` for every input combination.
 
 | X | Y | Z |
 |---:|---:|---:|
-| 0 | 0 | ___ |
-| 0 | 1 | ___ |
-| 1 | 0 | ___ |
-| 1 | 1 | ___ |
+| 0 | 0 | 1 |
+| 0 | 1 | _0__ |
+| 1 | 0 | _0__ |
+| 1 | 1 | _0__ |
 
 ### Reflection
 
 **From your truth table, why do you think this gate is called a NOR gate?**
 
-> _Write your answer here._
+> _I think this is called a nor gate because neither X or Y has to be on to turn on Z but if either X or Y is turned on Z wouldnt, also with X or Y depending whats turned on._
 
 ---
 

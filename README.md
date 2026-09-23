@@ -242,16 +242,16 @@ Toggle the input switches and observe output `Z` for every input combination.
 
 | X | Y | Z |
 |---:|---:|---:|
-| 0 | 0 | ___ |
-| 0 | 1 | ___ |
-| 1 | 0 | ___ |
-| 1 | 1 | ___ |
+| 0 | 0 | _0__ |
+| 0 | 1 | _1__ |
+| 1 | 0 | __1_ |
+| 1 | 1 | _0__ |
 
 ### Reflection
 
 **From your truth table, why do you think this gate is called an XOR gate, or exclusive OR gate?**
 
-> _Write your answer here._
+> _I think the XOR gate is called that since either component of X or Y has to be turned on in order to turn on Z if both are on then Z doesn't turn on._
 
 ## Truth-Table Pattern
 

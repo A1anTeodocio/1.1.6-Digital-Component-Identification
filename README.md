@@ -359,42 +359,42 @@ In this test circuit:
 
 | Switch Action | T State | Q Output | NOT_Q Output | Observation |
 |---|---:|---:|---:|---|
-| Starting condition | 0 | ___ | 0 | ___ |
-| Move switch from GND to VCC | 1 | ___ | ___ | ___ |
-| Move switch from VCC to GND | 0 | ___ | ___ | ___ |
-| Toggle switch one more time | ___ | ___ | ___ | ___ |
+| Starting condition | 0 | _1__ | 0 | _Q is On__ |
+| Move switch from GND to VCC | 1 | 0__ | _1__ | Q by itself is on__ |
+| Move switch from VCC to GND | 0 | __0_ | _1__ | __Data and Q is only On_ |
+| Toggle switch one more time | _1__ | __1_ | __0_ | _Q is only on_ |
 
 ### Analysis Questions
 
 **What happens to output `Q` when switch `T` moves from GND to VCC?**
 
-> _Write your answer here._
+> _Q turns off._
 
 **What happens to output `Q` when switch `T` moves from VCC to GND?**
 
-> _Write your answer here._
+> _Q is still left off._
 
 **What does your observation tell you about when `Q` changes relative to changes at the `CLK` input?**
 
-> _Write your answer here._
+> _That the Q input remains only the one on._
 
 **What is the relationship between `Q` and `NOT_Q`?**
 
-> _Write your answer here._
+> _The relationship between q and not q is that one of them has to be on and the other off, both of them dont turn on at the same time._
 
 **What is the relationship between data input `D` and output `Q`?**
 
-> _Write your answer here._
+> _Data input has to be off in order for Q to be on._
 
 **Based on your observations, explain the relationship among `D`, `Q`, `NOT_Q`, and `CLK`. What does a flip-flop do?**
 
-> _Write your answer here._
+> _The flip flop can only turn on 2 lights but every 3rd time switch other lights turn off._
 
 ### Reflection
 
 **In this investigation, you changed the flip-flop state by manually toggling a switch. How could a flip-flop change states without direct human input?**
 
-> _Write your answer here._
+> By adding a pulse clock, so like a clock._._
 
 ---
 
